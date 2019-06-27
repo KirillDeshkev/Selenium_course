@@ -1,1 +1,1 @@
-#### Code for selemium course on stepik 
+#### Code for selenium course on stepik 
